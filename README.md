@@ -13,6 +13,7 @@ Environment Set-up
   Git
   NodeJS
   VSCode
+    Keybindings
     Extensions  
   Chrome
     Extensions
