@@ -1,40 +1,35 @@
 # JavaScript
 JavaScript is so important nowadays, please be sure to understand below topics using the free resources and concepts mentioned below.
 
-* ### Basic
-  * Variables
-  * Comments
-  * Data types
-  * Operators
-  * Conditional statements
-    * If / else
-    * Switch
-    * Ternary operator
-  * Arrays
-
-* ### Intermediate
-  * Functions
-  * Loops
-  * Objects
-  * DOM manipulation
-  * Events
-  * Debugging
-  * Error handling
-
-* ### Advanced
-  * Execution contexts
-    * Scopes
-    * Global object
-    * 'this' keyword
-  * Controlling program flow
-  * Prototype and inheritance
-  * Recursion
-  * IIFE
-  * Delegates
-  * Callbacks
-  * Clousure
-  * Binding
-  * JSON
+* Variables
+* Comments
+* Data types
+* Operators
+* Conditional statements
+  * If / else
+  * Switch
+  * Ternary operator
+* Arrays
+* Functions
+* Loops
+* Objects
+* DOM manipulation
+* Events
+* Debugging
+* Error handling
+* Execution contexts
+  * Scopes
+  * Global object
+  * 'this' keyword
+* Controlling program flow
+* Prototype and inheritance
+* Recursion
+* IIFE
+* Delegates
+* Callbacks
+* Clousure
+* Binding
+* JSON
 
 
 ## Free Online Resources
