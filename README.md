@@ -1,14 +1,18 @@
 # SPFx Learning Path
-Learning path for SharePoint Framework
+// TODO Banner
 
-# [JavaScript](./JavaScript)
+# Introduction
+## Motivation
+## Resources
 
-# [PnP](./PnP)
+# Table of contents
+  * [JavaScript](./JavaScript)
 
-# [APIs](./APIs)
+  * [PnP](./PnP)
 
-# [SharePoint Framework (SPFx)](./SPFx)
+  * [APIs](./APIs)
+
+  * [SharePoint Framework (SPFx)](./SPFx)
 
 # FAQ
-  * [Question 1](https://docs.microsoft.com/en-us/sharepoint/dev/index)
-
+  * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
