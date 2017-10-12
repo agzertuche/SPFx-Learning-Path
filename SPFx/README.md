@@ -27,6 +27,41 @@ ___
 
 ## [Development Workflow for SPFx Projects](./development-workflow-spfx-projects.md)
 
+COURSE:
+Client-Side Web Parts *
+Property Panes for Client Web Parts *
+Leveraging External Files & Libraries *
+Logging & Debugging SharePoint Framework Solutions *
+Creating SharePoint Assets *
+Deploying to Production *
+Working with jQuery
+Working with Knockout
+Working with React *
+Working with AngularJS (v1.x)
+Leveraging Office UI Fabric & Office Themes *
+Working with SharePoint Lists & Libraries *
+Creating and calling third party services
+
+Digging Into the SharePoint Framework - Advanced Topics
+Client-Side Web Parts - Advanced Topics
+Property Panes for Client Web Parts - Advanced Topics
+Working with the PnP JS Core
+Usage Tracking & Analytics in SPFx Solutions
+Creating shared libraries
+SharePoint Framework Services
+Testing Client Web Parts
+Localizing SPFx Projects
+Team-Based Development
+Continuous Integration (CI) & Continuous Delivery / Deployment (CD)
+Development Environment Revisited
+Creating Custom Gulp Tasks
+Extending Webpack
+
+SharePoint Framework
+The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready from day one.
+Overview of the SharePoint Framework
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview
+
 ## Best Practices
 ### Limitations
   * IE 10

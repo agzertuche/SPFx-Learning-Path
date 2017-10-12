@@ -60,3 +60,26 @@ JavaScript is so important nowadays, please be sure to understand below topics u
 * Stric mode https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2243238?start=0
 * 'new' constructor https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237568?start=0
 * Chainable methods https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237620?start=0
+
+
+
+
+Table of Contents
+https://github.com/grab/front-end-guide#table-of-contents
+  
+Single-page Apps (SPAs)
+New-age JavaScript
+User Interface
+State Management
+Coding with Style
+Maintainability
+Testing
+Linting JavaScript
+Linting CSS
+Formatting Code
+Types
+Build System
+Package Management
+Continuous Integration
+Hosting
+Deployment
