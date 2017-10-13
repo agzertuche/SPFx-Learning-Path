@@ -4,8 +4,8 @@ Landing Page:
     ☐ Send banner mockup and instructions  
     ☐ Replace banner
     ☐ Give banner credits
-  ☐ Introduction
-  ☐ TOC
+  ✔ Introduction @done (2017-10-12 16:26:03)
+  ✔ TOC @done (2017-10-12 16:26:03)
   ☐ Add more FAQs
   ☐ Add best practices and conventions
   ☐ Add more useful links
@@ -13,6 +13,12 @@ Landing Page:
 JavaScript:
   ☐ Finish JS concepts from udemy videos
   ☐ Validate topics from github guide
+  ES6:
+    ☐ asdf
+  TypeScript:
+    ☐ asdf
+  React:
+    ☐ asdf
 
 SharePoint:
   ☐ Introduction
