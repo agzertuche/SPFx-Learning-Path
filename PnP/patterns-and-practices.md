@@ -1,8 +1,8 @@
-# PnP
+# Patterns and Practices (PnP)
 
 https://dev.office.com/blogs/pnp-october-2017-release
 
-On top of the specific PnP repositories, PnP initiative also controls the new repositories under the SharePoint organization. 
+On top of the specific PnP repositories, PnP initiative also controls the new repositories under the SharePoint organization.
 
 sp-dev-docs - Source for new SharePoint dev center documentation exposed from http://dev.office.com/sharepoint
 sp-dev-fx-webparts - Client-side web part samples from community and engineering

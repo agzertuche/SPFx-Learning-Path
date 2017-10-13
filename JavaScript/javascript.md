@@ -1,7 +1,7 @@
 # JavaScript
 <img alt="JS Logo" src="../assets/js-logo.png" width="48"> JavaScript is a scripting language that can be embedded in web pages and other applications.
 
-## Concepts
+## Concepts to Learn
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
   - [ ] Variables
@@ -36,19 +36,19 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
           - Deployment
 
 ## Resources
-  
-### Tutorials  
+
+### Tutorials
   * [The Modern JavaScript Tutorial](https://javascript.info/)
   * [JavaScript Essentials](https://www.udemy.com/javascript-essentials/?siteID=jU79Zysihs4-h2MaC5l1GiG1cwuTmC6RAw&LSNPUBID=jU79Zysihs4)
   * [Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-### Excercises 
+### Excercises
   * [Codecademy](https://www.codecademy.com/tracks/javascript)
   * [Learn JS](http://www.learn-js.org/)
 
 ### Must read posts
   * [A study plan to cure JavaScript fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
-  
+
 ### Books
   * [Eloquent JavaScript](http://eloquentjavascript.net/)
   * [You Don't Know JS (e-book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)

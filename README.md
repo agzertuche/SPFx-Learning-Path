@@ -9,8 +9,8 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
 
 ### Pre-requisites
   * Core programming concepts
-  * Front-end web development
-  * SharePoint concepts 
+  * Expirience with front-end web development
+  * Basic SharePoint knowledge
   * HTTP web protocols
   * NPM command line tool to manage JS packages
   * Git source code version control
@@ -21,17 +21,12 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
   3. asdf
 
 ## Table of contents
-  * [SharePoint](./SharePoint)
   * [JavaScript](./JavaScript/javascript.md)
-  * [SharePoint Framework (SPFx)](./SPFx)
-  * [PnP](./PnP)
+  * [Patterns and Practices](./PnP)
   * [APIs](./APIs)
+  * [SharePoint Framework (SPFx)](./SPFx)
 
 ## FAQ
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
-
-## Useful Links
-![SPFx References](./assets/pnp-resources-list.png "SPFx References")
-https://github.com/grab/front-end-guide
