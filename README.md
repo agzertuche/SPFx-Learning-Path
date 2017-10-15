@@ -1,5 +1,5 @@
 # SPFx Learning Path
-![SPFx Learning Path](https://blog.ch.atosconsulting.com/wp-content/uploads/2017/05/sharepoint-banner.png "SPFx Learning Path")
+![SPFx Learning Path](./assets/spfx-learning-path-logo.png "SPFx Learning Path")
 
 ## Introduction
 ### Motivation
