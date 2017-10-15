@@ -13,17 +13,9 @@ Landing Page:
 JavaScript:
   ☐ Finish JS concepts from udemy videos
   ☐ Validate topics from github guide
-  ES6:
-    ☐ asdf
-  TypeScript:
-    ☐ asdf
-  React:
-    ☐ asdf
-
-SharePoint:
-  ☐ Introduction
-  ☐ Concepts
-  ☐ Resources
+  ✔ ES6 @done (2017-10-14 22:49:57)
+  ✔ TypeScript @done (2017-10-14 22:49:58)
+  ✔ React @done (2017-10-14 22:49:58)
 
 SPFx:
   ☐ Validate the guide is covering all topics from course
@@ -36,7 +28,7 @@ SPFx:
   ☐ Scafolding
 
 PnP:
-  ☐ Introduction
+  ✔ Introduction @done (2017-10-15 01:24:09)
   ☐ Concepts
   ☐ Resources
   

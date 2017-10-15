@@ -1,7 +1,9 @@
 # EcmaScript
-<img alt="JS Logo" src="../assets/es-ecmascript-logo.png" width="48"> TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+<img alt="ES Logo" src="../assets/es-ecmascript-logo.png" width="48"> TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## Concepts to Learn
+Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
+
   - [ ] Const
   - [ ] Let
   - [ ] Template string

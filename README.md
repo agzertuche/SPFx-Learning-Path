@@ -22,6 +22,9 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
 
 ## Table of contents
   * [JavaScript](./JavaScript/javascript.md)
+    * [EcmaScript](./JavaScript/ecmascript.md)
+    * [TypeScript](./JavaScript/typescript.md)
+    * [React](./JavaScript/react.md)
   * [Patterns and Practices](./PnP)
   * [APIs](./APIs)
   * [SharePoint Framework (SPFx)](./SPFx)
