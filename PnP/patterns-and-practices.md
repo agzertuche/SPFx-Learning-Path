@@ -1,5 +1,5 @@
 # Patterns and Practices (PnP)
-<img alt="PnP Logo" src="../assets/pnp-logo.png" width="128"> SharePoint Patterns and Practices (PnP) is an open source initiative coordinated by SharePoint engineering. It's a channel for the SharePoint engineering to share documentation, guidance, samples and reusable component for the community. 
+<img alt="PnP Logo" src="../assets/pnp-logo.png" width="128"> PnP is an open source initiative coordinated by SharePoint engineering to share documentation, guidance, samples and reusable component for the community. 
 
 ## Concepts to Learn
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
@@ -9,22 +9,24 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Data types
   - [ ] JSON
 
-  PnP - Main repository for SP add-ins
-PnP-Guidance - Repository for guidance articles and materials
-PnP-Sites-Core - Repository for PnP Core component
-PnP-JS-Core - Repository for PnP JavaScript Core component
-PnP-PowerShell - Repository for PnP PowerShell Cmdlet's
-PnP-Provisioning-Schema - Repository for remote provisioning schema design
-PnP-Transformation - Repository for Transformation tooling
-PnP-Tools - Scripts and tools for SharePoint on-premises and Office 365
+| Repository | Description |
+| --- | --- |
+| [PnP](https://github.com/OfficeDev/PnP) | Main repository for SP add-ins |
+| [PnP-Guidance](https://github.com/OfficeDev/PnP-Guidance) | Repository for guidance articles and materials |
+| [PnP-Sites-Core](https://github.com/OfficeDev/PnP-Sites-Core) | Repository for PnP Core component |
+| [PnP-JS-Core](https://github.com/OfficeDev/PnP-JS-Core/) | Repository for PnP JavaScript Core component |
+| [PnP-PowerShell](https://github.com/OfficeDev/PnP-PowerShell) | Repository for PnP PowerShell Cmdlet's |
+| [PnP-Provisioning-Schema](https://github.com/OfficeDev/PnP-provisioning-schema/) | Repository for remote provisioning schema design |
+| [PnP-Transformation](https://github.com/OfficeDev/PnP-Transformation) | Repository for Transformation tooling |
+| [PnP-Tools](https://github.com/OfficeDev/PnP-Tools) | Scripts and tools for SharePoint on-premises and Office 365 |
 
 ## Resources
 
 ### Tutorials
-  * [The Modern JavaScript Tutorial](https://javascript.info/)
+  * [PnP Shorts - Guidance Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXZbEvTEPxzIOMGXj_aZKJG)
 
 ### Excercises
-  * [Codecademy](https://www.codecademy.com/tracks/javascript)
+  * [PnP code samples](https://dev.office.com/code-samples#?filters=Guidance)
 
 ### Must read posts
   * [A study plan to cure JavaScript fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
