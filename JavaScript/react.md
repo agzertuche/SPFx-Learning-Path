@@ -17,7 +17,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] PropTypes
   - [ ] Refs
   - [ ] Lifecycle methods
-  - [ ] Stateless functional components 
+  - [ ] Stateless functional components
   - [ ] Nested components
   - [ ] High order components (HOC)
 
@@ -43,4 +43,4 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   * [React code in GitHub](https://github.com/facebook/react)
 
 ## Next chapter
-  * [PnP](../PnP/patterns-and-practices.md)
+  * [PnP](../PnP)

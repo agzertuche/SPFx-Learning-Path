@@ -1,5 +1,6 @@
 # APIs
   * REST
+    * Patterns and Practices (PnP)
     * SPHttpClient
     * Fetch
     * Axios

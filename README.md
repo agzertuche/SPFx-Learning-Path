@@ -21,15 +21,18 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
   3. asdf
 
 ## Table of contents
-  * [JavaScript](./JavaScript/javascript.md)
+  * [JavaScript](./JavaScript)
     * [EcmaScript](./JavaScript/ecmascript.md)
     * [TypeScript](./JavaScript/typescript.md)
     * [React](./JavaScript/react.md)
-  * [Patterns and Practices](./PnP)
-  * [APIs](./APIs)
   * [SharePoint Framework (SPFx)](./SPFx)
+  * [APIs](./APIs)
+    * [Patterns and Practices](./APIs/pnp.md)
+    * [REST](./APIs/rest.md)
+    * [JSOM](./APIs/jsom.md)
+    * [Webhooks](./APIs/webhooks.md)
+    * [Logging](./APIs/logging.md)
+
 
 ## FAQ
-  * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
-  * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)

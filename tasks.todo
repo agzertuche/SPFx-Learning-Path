@@ -1,37 +1,62 @@
 Landing Page:
-  ☐ Banner image
-    ☐ Ask Federico to help me with the banner
-    ☐ Send banner mockup and instructions  
-    ☐ Replace banner
-    ☐ Give banner credits
+  ✔ Banner image @done (2017-10-16 15:24:16)
+    ✘ Ask Federico to help me with the banner @cancelled (2017-10-16 15:24:17)
+    ✘ Send banner mockup and instructions @cancelled (2017-10-16 15:24:39)
+    ✔ Replace banner @done (2017-10-16 15:24:23)
+    ✘ Give banner credits @cancelled (2017-10-16 15:24:30)
   ✔ Introduction @done (2017-10-12 16:26:03)
   ✔ TOC @done (2017-10-12 16:26:03)
+  ☐ How to follow this guide?
   ☐ Add more FAQs
-  ☐ Add best practices and conventions
-  ☐ Add more useful links
+  ✘ Add best practices and conventions @cancelled (2017-10-16 20:31:06)
+  ✘ Add more useful links @cancelled (2017-10-16 20:31:09)
 
 JavaScript:
-  ☐ Finish JS concepts from udemy videos
-  ☐ Validate topics from github guide
+  ✔ Finish JS concepts from udemy videos @done (2017-10-16 15:24:01)
+  ✔ Validate topics from github guide @done (2017-10-16 15:24:06)
   ✔ ES6 @done (2017-10-14 22:49:57)
   ✔ TypeScript @done (2017-10-14 22:49:58)
   ✔ React @done (2017-10-14 22:49:58)
 
 SPFx:
-  ☐ Validate the guide is covering all topics from course
-  ☐ Limitations
-  ☐ Errors
-  ☐ Lint
-    ☐ What it is?
-    ☐ How does it work?
-  ☐ Resuable Controls
-  ☐ Scafolding
+  ✔ Validate the guide is covering all topics from course @done (2017-10-16 18:49:25)
+  ✔ Introduction @done (2017-10-16 19:08:56)
+  ☐ Concepts
+  ☐ - [ ] Modern Site Pages
+  ☐ - [ ] Workbench
+  ☐ - [ ] Web parts
+  ☐ - [ ] Property panes
+  ☐ - [ ] Provisioning
+  ☐ - [ ] Upgrade solutions
+  ☐ - [ ] Webhooks
+  ☐ - [ ] Extensions
+  ☐ - [ ] CRUD Operations
+  ☐ - [ ] Logging
+  ☐ - [ ] Debugging
+  ☐ - [ ] Artifacts
+  ☐ - [ ] Localization
+  ☐ - [ ] Testing
+  ☐ - [ ] Deploying
+  ☐ - [ ] Using React
+  ☐ - [ ] Office UI Fabric
+  ☐ - [ ] Working with SharePoint data
+  ☐ - [ ] Calling APIs
+  ☐ - [ ] PnP JS Core
+  ☐ - [ ] Package analytics
+  ☐ - [ ] Team-Based Development*
+  ☐ - [ ] [Release pipeline]
+  ☐ - [ ] [Development Workflow for SPFx Projects]
+  ☐ - [ ] Best practices
+  ☐ - [ ] Limitations
+  ☐ - [ ] Handling errors
+  ☐ - [ ] Lint
+  ✔ Resources @done (2017-10-16 20:29:32)
 
 PnP:
   ✔ Introduction @done (2017-10-15 01:24:09)
-  ☐ Concepts
-  ☐ Resources
-  
+  ✘ Concepts @cancelled (2017-10-16 15:27:01)
+  ✔ Resources @done (2017-10-16 15:26:59)
+
 APIs:
   ☐ Introduction
   ☐ Concepts

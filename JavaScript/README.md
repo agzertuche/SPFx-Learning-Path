@@ -28,12 +28,13 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Binding
   - [ ] JSON
 
-        Note: This chapter only covers JavaScript programming language concepts. Further chapters will cover the following development processes particularly using SPFx.
-          - Testing
-          - Linting
-          - Build System
-          - Package Management
-          - Deployment
+
+Note: This chapter only covers JavaScript programming language concepts. Further chapters will cover the following development processes particularly using SPFx.
+  - Testing
+  - Linting
+  - Build System
+  - Package Management
+  - Deployment
 
 ## Resources
 
