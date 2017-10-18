@@ -1,0 +1,12 @@
+    - [ ] Creating a webpart project
+    - [ ] Property panes
+    - [ ] CRUD Operations
+    - [ ] Localization
+    - [ ] Logging
+    - [ ] Handling errors
+    - [ ] Linting
+    - [ ] Debugging
+    - [ ] Testing
+    - [ ] Deploying
+      - [ ] Upgrade solutions
+      - [ ] Package analytics

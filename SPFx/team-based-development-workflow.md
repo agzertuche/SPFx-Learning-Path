@@ -9,7 +9,19 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/team-based-development-on-s
 ## Web Parts
 ## Extensions
 
+  - [ ] Team-Based Development*
+  - [ ] [Release pipeline](https://www.eliostruyf.com/configure-a-build-and-release-pipeline-for-your-sharepoint-framework-solution-deployments/)
+  - [ ] [Development Workflow for SPFx Projects](./development-workflow-spfx-projects.md)
+  - [ ] Using React
+  - [ ] Office UI Fabric
+  - [ ] Working with SharePoint data
+    - [ ] Calling APIs
+    - [ ] PnP JS Core
+
+
+
 ## UI
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/css-recommendations
   * CSS
   * SASS
   * Styled Components

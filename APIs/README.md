@@ -4,6 +4,7 @@
     * SPHttpClient
     * Fetch
     * Axios
+    * GraphHttpClient (soon...)
   * JSOM
   * Search
   * Webhooks

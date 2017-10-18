@@ -5,53 +5,16 @@ The SharePoint Framework (SPFx) is a page and web part model that provides full 
 ## Concepts to Learn
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
-  - [ ] Modern Site Pages
-  - [ ] Workbench
-  - [ ] Web parts
-  - [ ] Property panes
-  - [ ] Provisioning
-  - [ ] Upgrade solutions
-  - [ ] Webhooks
-  - [ ] Extensions
-  - [ ] CRUD Operations
-  - [ ] Logging
-  - [ ] Debugging
-  - [ ] Artifacts
-  - [ ] Localization
-  - [ ] Testing
-  - [ ] Deploying
-  - [ ] Using React
-  - [ ] Office UI Fabric
-  - [ ] Working with SharePoint data
-  - [ ] Calling APIs
-  - [ ] PnP JS Core
-  - [ ] Package analytics
-  - [ ] Team-Based Development*
-  - [ ] [Release pipeline](https://www.eliostruyf.com/configure-a-build-and-release-pipeline-for-your-sharepoint-framework-solution-deployments/)
-  - [ ] [Development Workflow for SPFx Projects](./development-workflow-spfx-projects.md)
-  - [ ] Best practices
-  - [ ] Limitations
-  - [ ] Handling errors
-  - [ ] Lint
+  - [ ] [Set up a development environment](./development-environment.md)
+  - [ ] [Web parts](./webparts.md)
+  - [ ] [Extensions](./extensions.md)
+  - [ ] [Provisioning assets](./provisioning-assets.md)
+  - [ ] [Team based development workflow](./SPFx/team-based-development-workflow.md)
 
 ## Resources
 
-### Tools and Libraries
-___
-| Name | Description |
-| ------ | ------ |
-| [TypeScript](https://www.typescriptlang.org/) | Is a typed superset of JavaScript that compiles to plain JavaScript |
-| [React](https://reactjs.org/) | A JavaScript library for building user interfaces |
-| [Node Package Manager (npm)](https://www.npmjs.com/) | Is the package manager for JavaScript |
-| [Node.js](https://nodejs.org/) | Is an open source, cross-platform runtime environment for hosting and serving JavaScript code |
-| [Gulp](https://gulpjs.com/) | Is a toolkit for automating painful or time-consuming tasks in your development workflow |
-| [Webpack](http://webpack.github.io/) | Is a module bundler that takes your web part files an dependencies and generates JavaScript bundles |
-| [Yeoman](http://yeoman.io/) | Helps you to kickstart new projects, prescribing best practices and tools to help you stay productive |
-| [VSCode](https://code.visualstudio.com/) | Is a lightweight but powerful source code editor from Microsoft |
-
 ### Tutorials
   * [SPFx Overview](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
-
 
 ### Code samples
   | Repository | Description |
@@ -67,7 +30,6 @@ ___
   | [sp-dev-fx-property-controls](https://github.com/SharePoint/sp-dev-fx-property-controls) | Reusable property pane controls to be used in web parts |
   | [SP client custom fields](https://github.com/OlivierCC/sp-client-custom-fields) | This library is a kit of 30+ components to customize SPFx web parts custom fields, to make the optimal experience to edit your Web Parts. |
 
-
 ### Books
   * [Getting Started with SharePoint Framework Development using TypeScript PnP JS and React](https://gallery.technet.microsoft.com/office/Ebook-Getting-Started-with-598433ce)
 
@@ -75,4 +37,4 @@ ___
   * [SharePoint Framework Reference](https://docs.microsoft.com/en-us/javascript/api/overview/sharepoint)
 
 ## Next chapter
-  * [asdf](./asdf.md)
+  * [Set up a development environment](./development-environment.md)

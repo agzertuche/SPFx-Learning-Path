@@ -16,9 +16,13 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
   * Git source code version control
 
 ### How to follow this guide?
-  1. asdf
-  2. asf
-  3. asdf
+  1. Clone or fork this repository
+  2. Navigate to a particular chapter
+  3. Review the concepts to learn section
+  4. Mark as completed any concept that you already fully understand
+  5. For the missing concepts review the resources section to learn about them
+  6. When you fully understand all the concept for that chapter, go to the next one to learn more stuff
+  7. Enjoy it!
 
 ## Table of contents
   * [JavaScript](./JavaScript)
@@ -26,6 +30,11 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
     * [TypeScript](./JavaScript/typescript.md)
     * [React](./JavaScript/react.md)
   * [SharePoint Framework (SPFx)](./SPFx)
+    * [Set up a development environment](./SPFx/development-environment.md)
+    * [Web parts](./SPFx/webparts.md)
+    * [Extensions](./SPFx/extensions.md)
+    * [Provisioning assets](./SPFx/provisioning-assets.md)
+    * [Team based development workflow](./SPFx/team-based-development-workflow.md)
   * [APIs](./APIs)
     * [Patterns and Practices](./APIs/pnp.md)
     * [REST](./APIs/rest.md)
@@ -36,3 +45,5 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
 
 ## FAQ
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
+  * [How to add custom icons on apps?]()
+  * [Can I use an editor other than VSCode?]()

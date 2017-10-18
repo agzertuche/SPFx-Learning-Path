@@ -1,0 +1,11 @@
+    - [ ] Creating an extension project
+    - [ ] Application Customizers
+    - [ ] Field Customizers
+    - [ ] Command Sets
+    - [ ] Handling errors
+    - [ ] Linting
+    - [ ] Debugging
+    - [ ] Testing
+    - [ ] Deploying
+      - [ ] Upgrade solutions
+      - [ ] Package analytics
