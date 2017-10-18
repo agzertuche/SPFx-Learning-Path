@@ -4,17 +4,17 @@
 ## Concepts to Learn
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
-  - [ ] Variables
-  - [ ] Comments
-  - [ ] Data types
-  - [ ] Operators
-  - [ ] Conditional statements
-  - [ ] Arrays
-  - [ ] Functions
-  - [ ] Loops
-  - [ ] Objects
-  - [ ] DOM manipulation
-  - [ ] Events
+  - [x] Variables
+  - [x] Comments
+  - [x] Data types
+  - [x] Operators
+  - [x] Conditional statements
+  - [x] Arrays
+  - [x] Functions
+  - [x] Loops
+  - [x] Objects
+  - [x] DOM manipulation
+  - [x] Events
   - [ ] Debugging
   - [ ] Error handling
   - [ ] Execution contexts
@@ -26,7 +26,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Callbacks
   - [ ] Clousure
   - [ ] Binding
-  - [ ] JSON
+  - [x] JSON
 
 Note: This chapter only covers JavaScript programming language concepts. Further chapters will cover the following development processes particularly using SPFx.
   - Testing
