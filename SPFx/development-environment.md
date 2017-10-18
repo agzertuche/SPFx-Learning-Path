@@ -1,3 +1,6 @@
+# Set up a development environment
+You can use Visual Studio, or your own custom development environment to build SharePoint client-side web parts. You can use a Mac, PC, or Linux.
+
 ## Tools and Libraries
 ___
 | Name | Description |
@@ -18,10 +21,10 @@ ___
   * [VSCode configuration](./vscode-configuration.md)
   * [Chrome configuration](./chrome-configuration.md)
 
-
 ### Optional tools
   * Fiddler
   * Postman
+  - [ ] Workbench
 
-
-    - [ ] Workbench
+## Next chapter
+  * [Web parts](./webparts.md)

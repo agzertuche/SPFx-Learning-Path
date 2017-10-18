@@ -1,6 +1,5 @@
 ## Project Scaffolding
 
-
 ## Semantic versioning (SemVer)
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/team-based-development-on-sharepoint-framework
 
@@ -17,8 +16,6 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/team-based-development-on-s
   - [ ] Working with SharePoint data
     - [ ] Calling APIs
     - [ ] PnP JS Core
-
-
 
 ## UI
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/css-recommendations

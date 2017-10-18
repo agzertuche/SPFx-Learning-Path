@@ -5,7 +5,7 @@
 ### Motivation
 This guide is a collection of resources with the intention to help you learn SharePoint Framework (SPFx) from the ground up.
 
-First we start with JavaScript from basic to complex concepts including EcmaScript 2015 (ES6), then we move to SharePoint concepts, after that we talk about SPFx and SharePoint Patterns and Practices (PnP), at the end we discuss how to interact with SharePoint data using APIs.
+First we start with JavaScript from basic to complex concepts including EcmaScript 2015 (ES6), after that we talk about SPFx and SharePoint Patterns and Practices (PnP), at the end we discuss how to interact with SharePoint data using APIs.
 
 ### Pre-requisites
   * Core programming concepts
@@ -41,7 +41,6 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
     * [JSOM](./APIs/jsom.md)
     * [Webhooks](./APIs/webhooks.md)
     * [Logging](./APIs/logging.md)
-
 
 ## FAQ
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)

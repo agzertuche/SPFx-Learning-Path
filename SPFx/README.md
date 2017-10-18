@@ -1,5 +1,4 @@
 # SharePoint Framework (SPFx)
-
 The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling.
 
 ## Concepts to Learn
@@ -9,7 +8,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] [Web parts](./webparts.md)
   - [ ] [Extensions](./extensions.md)
   - [ ] [Provisioning assets](./provisioning-assets.md)
-  - [ ] [Team based development workflow](./SPFx/team-based-development-workflow.md)
+  - [ ] [Team based development workflow](./team-based-development-workflow.md)
 
 ## Resources
 
