@@ -7,7 +7,9 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] [Set up a development environment](./development-environment.md)
   - [ ] [Web parts](./webparts.md)
   - [ ] [Extensions](./extensions.md)
-  - [ ] [Provisioning assets](./provisioning-assets.md)
+  - [ ] Using React
+  - [ ] UI
+  - [ ] [Formatting column](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
   - [ ] [Team based development workflow](./team-based-development-workflow.md)
 
 ## Resources

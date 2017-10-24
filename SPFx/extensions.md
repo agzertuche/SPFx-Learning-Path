@@ -9,29 +9,23 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Field Customizers
   - [ ] Command Sets
   - [ ] Handling errors
-  - [ ] Linting
   - [ ] Debugging
   - [ ] Testing
   - [ ] Deploying
-    - [ ] Upgrade solutions
-    - [ ] Package analytics
 
 ## Resources
 
 ### Tutorials
-  * [The Modern JavaScript Tutorial](https://javascript.info/)
+  * [Build an application customizer extension](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension)
+  * [Build a field customizer extension](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/building-simple-field-customizer)
+  * [Build a command set extension](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/building-simple-cmdset-with-dialog-api)
+  * [Deploy an extension](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint)
 
-### Excercises
-  * [Codecademy](https://www.codecademy.com/tracks/javascript)
-
-### Must read posts
-  * [A study plan to cure JavaScript fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
-
-### Books
-  * [Eloquent JavaScript](http://eloquentjavascript.net/)
+### Code samples
+  * [SharePoint FrameWork extension samples](https://github.com/SharePoint/sp-dev-fx-extensions/tree/master/samples)
 
 ### References
-  * [Web parts overview](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts)
+  * [SPFx extensions overview](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions)
 
 ## Next chapter
-  * [TypeScript](./typescript.md)
+  * [Team based development workflow](./team-based-development-workflow.md)

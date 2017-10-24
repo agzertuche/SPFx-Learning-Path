@@ -38,11 +38,11 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
   * [APIs](./APIs)
     * [Patterns and Practices](./APIs/pnp.md)
     * [REST](./APIs/rest.md)
-    * [JSOM](./APIs/jsom.md)
+    * [CSOM](./APIs/csom.md)
     * [Webhooks](./APIs/webhooks.md)
-    * [Logging](./APIs/logging.md)
 
 ## FAQ
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
   * [How to add custom icons on apps?]()
   * [Can I use an editor other than VSCode?]()
+  * [How to keep updated on SPFx new functionalities?]()

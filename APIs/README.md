@@ -5,7 +5,7 @@
     * Fetch
     * Axios
     * GraphHttpClient (soon...)
-  * JSOM
+  * CSOM
   * Search
   * Webhooks
 
