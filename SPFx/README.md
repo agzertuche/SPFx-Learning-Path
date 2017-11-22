@@ -5,12 +5,12 @@ The SharePoint Framework (SPFx) is a page and web part model that provides full 
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
   - [ ] [Set up a development environment](./development-environment.md)
+  - [ ] [Team based development workflow](./team-based-development-workflow.md)
   - [ ] [Web parts](./webparts.md)
   - [ ] [Extensions](./extensions.md)
-  - [ ] Using React
-  - [ ] UI
   - [ ] [Formatting column](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
-  - [ ] [Team based development workflow](./team-based-development-workflow.md)
+  - [ ] [UI](./ui.md)
+  - [ ] [Project Scaffolding](./scaffolding.md)
 
 ## Resources
 

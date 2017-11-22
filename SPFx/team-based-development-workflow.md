@@ -20,4 +20,4 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/team-based-development-on-s
   * [Team-based development on the SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/team-based-development-on-sharepoint-framework)
 
 ## Next chapter
-  * [APIs](../APIs/)
+  * [Web parts](./webparts.md)

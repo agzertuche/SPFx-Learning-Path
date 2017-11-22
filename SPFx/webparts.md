@@ -11,11 +11,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Logging
   - [ ] Handling errors
   - [ ] Debugging
-    ## Testing
-    * What to test
-    * How to write tests
-    * Karma
-    * Mocha
+  - [ ] Unit Test
   - [ ] Deploying
   - [ ] Upgrade solutions
   - [ ] Package analytics
@@ -29,6 +25,11 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   * [Deploy a web part to SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/serve-your-web-part-in-a-sharepoint-page)
   * [Provisioning assets from solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/provision-sp-assets-from-package)
   * [Configure web part properties](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane)
+  * [Build custom controls for the property pane](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/build-custom-property-pane-controls)
+  * [Localize SPFx web parts](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/localize-web-parts)
+  * [Working with the Logging API](https://github.com/SharePoint/sp-dev-docs/wiki/Working-with-the-Logging-API)
+  * [Debug SharePoint Framework solutions in Visual Studio Code](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/debug-in-vscode)
+
 
 ### Sample code
   * [Employee Performance App](https://github.com/agzertuche/SPFx/tree/master/EmployeePerformanceApp)

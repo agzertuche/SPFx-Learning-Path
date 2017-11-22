@@ -1,2 +1,0 @@
-      - [ ] Artifacts (Site columns, Content types, Lists)
-      - [ ] Sites

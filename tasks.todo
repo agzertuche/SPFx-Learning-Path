@@ -21,8 +21,13 @@ JavaScript:
 SPFx:
   ✔ Validate the guide is covering all topics from course @done (2017-10-16 18:49:25)
   ✔ Introduction @done (2017-10-16 19:08:56)
-  ☐ Concepts
+  ✔ Concepts @done (2017-11-21 18:26:55)
   ✔ Resources @done (2017-10-16 20:29:32)
+  ✘ Property Pane @cancelled (2017-11-21 19:28:46)
+  ☐ Scaffolding
+  ✘ VSCode Configuration @cancelled (2017-11-21 19:28:49)
+  ✔ UI @done (2017-11-21 19:45:21)
+  ☐ Team based dev workflow
 
 PnP:
   ✔ Introduction @done (2017-10-15 01:24:09)
@@ -36,5 +41,5 @@ APIs:
       ☐ CSOM
       ☐ Search API
       ☐ Webhooks
-      ☐ Logging
+      ✔ Logging @done (2017-11-21 18:46:11)
   ☐ Resources
