@@ -29,4 +29,4 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   * [SPFx extensions overview](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions)
 
 ## Next chapter
-  * [Team based development workflow](./team-based-development-workflow.md)
+  * [UI](./SPFx/ui.md)
