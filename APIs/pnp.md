@@ -32,4 +32,4 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
 <img alt="JS Logo" src="../assets/pnp-resources-list.png">
 
 ## Next chapter
-  * [SPFx](../SPFx)
+  * [REST](./rest.md)

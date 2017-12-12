@@ -38,10 +38,9 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
     * [UI](./SPFx/ui.md)
     * [Project Scaffolding](./SPFx/scaffolding.md)
   * [APIs](./APIs)
-    * [Patterns and Practices](./APIs/pnp.md)
-    * [REST](./APIs/rest.md)
-    * [CSOM](./APIs/csom.md)
-    * [Webhooks](./APIs/webhooks.md)
+    * [Patterns and Practices (PnP)](./APIs/pnp.md)
+    * [SharePoint REST service](https://docs.microsoft.com/en-us/sharepoint/dev/apis/rest/get-to-know-the-sharepoint-rest-service)
+    * [SharePoint Webhooks](https://docs.microsoft.com/en-us/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
 
 ## FAQ
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)

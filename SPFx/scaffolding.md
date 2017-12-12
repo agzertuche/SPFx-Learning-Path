@@ -35,10 +35,11 @@ Below is described the best way to scaffold the source folder where all folders 
     │   │   │   │   │   ├── ComponentName.test.ts
     │   │   │   │   │   └── styles.module.scss
     │   │   │   │   ├── AnotherComponent
+    │   │   │   │   │   ├── ...
     ....
 
 Each folder/file purpose is described below:
-| Folder | Purpose |
+| Folder/File | Purpose |
 | --- | --- |
 | MyCustomWebpart.ts | Initial file that will instantiate the render of the webpart and manage its configuration panel settings |
 | data | To store api calls |
@@ -46,8 +47,9 @@ Each folder/file purpose is described below:
 | models | To store the models of the objects to use on your webpart code |
 | styles | To store global styles and variables of the SCSS of the webpart |
 | tests | To store global tests of the webpart |
-| components | To store all the components that integrate the webpart. |
- You can see the unit test  and styles files are stored on the same path as their corresponding component, this is because is component should
+| components | To store all the components that integrate the webpart |
+| ComponentName | <ul><li>Folder and component name files should be in PascalCase format </li><br />Each component folder should contain its corresponding:<li>Index file to export modules</li><li>Component file to declare the functionality of the component</li><li>Interface files to declare the props and state of the component</li><li>Testing unit file</li><li>Styles file</li></ul> |
+
 
 ## Resources
 ### Tutorials

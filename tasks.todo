@@ -24,10 +24,10 @@ SPFx:
   ✔ Concepts @done (2017-11-21 18:26:55)
   ✔ Resources @done (2017-10-16 20:29:32)
   ✘ Property Pane @cancelled (2017-11-21 19:28:46)
-  ☐ Scaffolding
+  ✔ Scaffolding @done (2017-12-11 19:59:44)
   ✘ VSCode Configuration @cancelled (2017-11-21 19:28:49)
   ✔ UI @done (2017-11-21 19:45:21)
-  ☐ Team based dev workflow
+  ✔ Team based dev workflow @done (2017-12-11 20:12:38)
 
 PnP:
   ✔ Introduction @done (2017-10-15 01:24:09)
@@ -35,11 +35,11 @@ PnP:
   ✔ Resources @done (2017-10-16 15:26:59)
 
 APIs:
-  ☐ Introduction
-  ☐ Concepts
-      ☐ REST
-      ☐ CSOM
-      ☐ Search API
-      ☐ Webhooks
+  ✔ Introduction @done (2017-12-11 20:32:00)
+  ✔ Concepts @done (2017-12-11 20:31:59)
+      ✔ REST @done (2017-12-11 20:31:53)
+      ✘ CSOM @cancelled (2017-12-11 20:31:54)
+      ✘ Search API @cancelled (2017-12-11 20:31:55)
+      ✔ Webhooks @done (2017-12-11 20:31:56)
       ✔ Logging @done (2017-11-21 18:46:11)
-  ☐ Resources
+  ✔ Resources @done (2017-12-11 20:31:58)
