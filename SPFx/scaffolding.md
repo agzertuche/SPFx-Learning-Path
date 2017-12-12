@@ -48,8 +48,14 @@ Each folder/file purpose is described below:
 | styles | To store global styles and variables of the SCSS of the webpart |
 | tests | To store global tests of the webpart |
 | components | To store all the components that integrate the webpart |
-| ComponentName | <ul><li>Folder and component name files should be in PascalCase format </li><br />Each component folder should contain its corresponding:<li>Index file to export modules</li><li>Component file to declare the functionality of the component</li><li>Interface files to declare the props and state of the component</li><li>Testing unit file</li><li>Styles file</li></ul> |
 
+Make sure each component folder follows/contains bellow recommendations:
+* Folder and component name files should be in PascalCase format
+* Index file to export modules
+* Component file to declare the functionality of the component
+* Interface files to declare the props and state of the component
+* Testing unit file
+* Styles file
 
 ## Resources
 ### Tutorials
