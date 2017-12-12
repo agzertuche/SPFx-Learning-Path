@@ -38,7 +38,7 @@ Below is described the best way to scaffold the source folder where all folders 
     │   │   │   │   │   ├── ...
     ....
 
-Each folder/file purpose is described below:
+#### Each folder/file purpose is described below:
 | Folder/File | Purpose |
 | --- | --- |
 | MyCustomWebpart.ts | Initial file that will instantiate the render of the webpart and manage its configuration panel settings |
@@ -66,4 +66,4 @@ Make sure each component folder follows/contains bellow recommendations:
   * [Scaffold projects using yeoman SharePoint generator](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/toolchain/scaffolding-projects-using-yeoman-sharepoint-generator)
 
 ## Next chapter
-  * [APIs](./APIs)
+  * [APIs](../APIs)
